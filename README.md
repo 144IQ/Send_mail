@@ -1,5 +1,5 @@
 # Send_mail
-##Pythonでメールを送信<br>
+##Pythonでメールを送信
 
 ```
 EMAIL, PASSWORD = ('mail address', 'password')
